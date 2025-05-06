@@ -17,5 +17,7 @@ e meu grimório atual está recheado de **C#**, minha linguagem encantada do mom
 Obrigada por visitar este repositório fantasmagoricamente focado!  
 Se quiser conjurar uma colaboração ou apenas trocar sabedorias, estarei vagando por aqui... 🔮
 
- ![Codando às 3h da manhã, como um espírito cansado](https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif)
+<p align="center">
+  <img src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" alt="Codando às 3h da manhã" width="480"/>
+</p>
 
