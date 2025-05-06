@@ -5,7 +5,7 @@ Sou uma estudante das antigas e misteriosas artes da **Análise e Desenvolviment
 Neste plano digital, estou aprendendo a criar feitiços modernos com linhas de código –  
 e meu grimório atual está recheado de **C#**, minha linguagem encantada do momento! 🪄💻☕✨
 
-![Coding]([https://media.giphy.com/media/25605518/giphy.gif](https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif))
+![Codando às 3h da manhã, como um espírito cansado](https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif)
 
 🌿 No momento, dedico meus estudos aos encantamentos de:
 - **C#**: minha linguagem de invocação lógica
