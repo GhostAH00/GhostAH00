@@ -21,25 +21,10 @@ Se quiser conjurar uma colaboração ou apenas trocar sabedorias, estarei vagand
   <img src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" alt="Codando às 3h da manhã" width="480"/>
 </p>
 
-## 📊 Meus GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GhostAH00&show_icons=true&theme=radical&hide_border=true)
-
----
-
-## 📈 Meu Gráfico de Atividades
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=GhostAH00&bg_color=0d1117&color=9be7a2&line=9b59b6&point=58d68d&area=true&area_color=a569bd&hide_border=true)
-
 ---
 
 ## 💻 As Linguagens que Uso
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GhostAH00&layout=compact&theme=radical&hide_border=true)
 
----
-
-## 📅 Contribuições no Último Ano
-
-![GitHub Contributions](https://github-readme-stats.vercel.app/api/wakatime?username=GhostAH00&theme=radical)
 
