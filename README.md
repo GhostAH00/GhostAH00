@@ -23,8 +23,6 @@ Se quiser conjurar uma colaboração ou apenas trocar sabedorias, estarei vagand
 
 ---
 
-## 💻 As Linguagens que Uso
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GhostAH00&layout=compact&theme=radical&hide_border=true)
 
 
