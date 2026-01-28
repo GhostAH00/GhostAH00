@@ -23,6 +23,6 @@ Se quiser conjurar uma colaboração ou apenas trocar sabedorias, estarei vagand
 
 ---
 
-![Linguagens do Ghost](https://github-readme-stats.vercel.app/api/top-langs/?username=GhostAH00&layout=donut&theme=radical)
+[![Minhas Skills](https://skillicons.dev/icons?i=js,html,css,angular,ts,firebase,git,github&theme=dark)](https://skillicons.dev)
 
 
