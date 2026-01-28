@@ -23,7 +23,7 @@ Se quiser conjurar uma colaboração ou apenas trocar sabedorias, estarei vagand
 
 ---
 
-<p align="center">
+
 ![Linguagens do Ghost](https://github-readme-stats.vercel.app/api/top-langs/?username=GhostAH00&layout=donut&theme=radical)
-</p>
+
 
