@@ -10,6 +10,6 @@
 
   <br><br>
 
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg" alt="pacman contribution graph">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/a0f0a3d2ab9631b370485e79018c48c67b139ab6/public/assets/pacman.svg" width="600" alt="pacman">
 
 </div>
