@@ -6,7 +6,7 @@
 
   <br><br>
 
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&ring=40c463&fire=40c463&currStreakNum=40c463&hide_border=true" height="160" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=GhostAH00&locale=en&mode=daily&theme=dark&ring=40c463&fire=40c463&currStreakNum=40c463&hide_border=true" height="160" alt="streak graph" />
 
   <br><br>
 
