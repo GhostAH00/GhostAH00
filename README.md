@@ -34,8 +34,8 @@
   <h3>Meus rastros pelo sistema:</h3>
 
   <img src="https://streak-stats.demolab.com?user=GhostAH00&locale=en&mode=daily&theme=dark&ring=40c463&fire=40c463&currStreakNum=40c463&hide_border=true" height="160" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhostAH00&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" height="160" alt="Top Languages" />
-
+  
   <br><br>
 
 </div>
+
