@@ -1,29 +1,19 @@
-# Olá, alma curiosa! 👻💫  
-Seja bem-vinda ao meu cantinho encantado do GitHub...
+<div align="center">
+  <h2>
+    Olá, alma curiosa! 👻💫<br>
+    Hello, curious soul! 👻💫<br>
+    ¡Hola, alma curiosa! 👻💫
+  </h2>
+</div>
 
-Sou uma estudante das antigas e misteriosas artes da **Análise e Desenvolvimento de Sistemas**.  
-Neste plano digital, estou aprendendo a criar feitiços modernos com linhas de código –  
-e meu grimório atual está recheado de **C#**, minha linguagem encantada do momento! 🪄💻☕✨
+###
 
-🌿 No momento, dedico meus estudos aos encantamentos de:
-- **C#**: minha linguagem de invocação lógica
-- **Visual Studio Code**: meu portal mágico de edição
-- **Git e GitHub**: para registrar e compartilhar feitiços com outros magos da programação
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&ring=40c463&fire=40c463&currStreakNum=40c463&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+</div>
 
-🧰 Atualmente, estou aprendendo a usar:
-- **VSCode** ✨ (meu portal de codificação)
-- **Git e GitHub** 🌀 (para versionar meus feitiços)
- 
-Obrigada por visitar este repositório fantasmagoricamente focado!  
-Se quiser conjurar uma colaboração ou apenas trocar sabedorias, estarei vagando por aqui... 🔮
+###
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" alt="Codando às 3h da manhã" width="480"/>
-</p>
-
----
-
-
-![Linguagens do Ghost](https://github-readme-stats.vercel.app/api/top-langs/?username=GhostAH00&layout=donut&theme=radical)
-
-
+<div align="center">
+  <img alt="pacman" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/a0f0a3d2ab9631b370485e79018c48c67b139ab6/public/assets/pacman.svg">
+</div>
